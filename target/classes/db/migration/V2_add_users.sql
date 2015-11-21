@@ -1,0 +1,2 @@
+INSERT INTO test_user(USERNAME) VALUES ('User A');
+INSERT INTO test_user(USERNAME) VALUES ('User B');

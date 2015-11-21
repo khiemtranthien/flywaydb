@@ -1,0 +1,7 @@
+com/sample/service/impl/UserServiceImpl.class
+com/sample/repository/UserRepository.class
+com/sample/bo/User.class
+com/sample/system/FlywayMigration.class
+com/sample/endpoint/UserEndpoint.class
+com/sample/service/UserService.class
+com/sample/entity/UserEntity.class

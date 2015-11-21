@@ -1,0 +1,8 @@
+CREATE TABLE "TEST_USER"
+  ( "AUTOID" NUMBER(30,0), "USERNAME" VARCHAR2(75)
+  ) ;
+  
+commit;
+
+INSERT INTO TEST_USER(AUTOID, USERNAME) VALUES (test_user_seq.nextVal, 'User A');
+INSERT INTO TEST_USER(AUTOID, USERNAME) VALUES (test_user_seq.nextVal, 'User B');

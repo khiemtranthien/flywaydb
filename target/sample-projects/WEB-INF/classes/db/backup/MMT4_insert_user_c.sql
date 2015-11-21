@@ -1,0 +1,1 @@
+INSERT INTO TEST_USER(AUTOID, USERNAME) VALUES (test_user_seq.nextVal, 'User C');
